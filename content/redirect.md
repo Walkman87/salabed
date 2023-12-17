@@ -5,5 +5,5 @@ alias:
 ---
 
 <script>
-  window.location.href = 'https://cv.sameralabed.com';
+  window.location.href = 'http://cv.sameralabed.com';
 </script>
