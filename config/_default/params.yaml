@@ -10,7 +10,7 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
-
+  
 # SEO
 
 marketing:
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Dr Samer Alabed - Cardiac Radiologist'
+    twitter: 'smrabd'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
