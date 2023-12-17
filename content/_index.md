@@ -88,9 +88,9 @@ sections:
           date_start: 2014-09-01
           date_end: 2019-10-01
           description: |2-
-            ST4 Acute and general CT, Oncology imaging, Ultrasound guided intervention
+            ST4 Acute and general CT, Oncology imaging, Ultrasound-guided intervention
 
-            ST3 Chest, Uro & Gynacological, Paediatric and Vascular radiology
+            ST3 Chest, Uro & Gyneacological, Paediatric and Vascular radiology
 
             ST2 Neuroradiology, Gastro, MSK, Breast and Nuclear imaging
 
@@ -99,7 +99,7 @@ sections:
         - title: Clinical Foundation Training
           company: Buckinghamshire Healthcare Trust
           company_logo: nhs
-          location: Aylsesbury, High Wycombe & Amersham          
+          location: Aylesbury, High Wycombe & Amersham          
           date_start: 2013-02-01
           date_end: 2014-09-01
           description: Cardiology including coronary care unit, heart failure and valve clinics
