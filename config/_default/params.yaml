@@ -8,10 +8,9 @@
 appearance:
   mode: light
   theme_day: minimal
-  theme_night: minimal
+  theme_night:
   font: minimal
   font_size: L
-  mode: theme_day
 
 # SEO
 
