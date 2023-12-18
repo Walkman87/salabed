@@ -229,22 +229,21 @@ sections:
           organization: RSNA
           title: RSNA Trainee Research Prize
           url: https://pubs.rsna.org/doi/full/10.1148/radiol.229002
-        - certificate_url: https://digitalawards.hsj.co.uk/winners-2023#DigitalInnovatoroftheYear
+        - certificate_url: ''
           date_end: ''          
           date_start: '2018-06-01'
           description: 'For evaluating economic evaluation of diagnostic MRI examination'
           icon: rcr
           organization: RCR
-          title: 'George and Vera Ansell Radiology Research Prize'
-          url: https://digitalawards.hsj.co.uk/winners-2023#DigitalInnovatoroftheYear          
-        - certificate_url: https://www.medipexawards.co.uk/previous-entries/medipex-nhs-innovation-awards-2022/#panela1
+          title: 'George and Vera Ansell Radiology Research Prize'         
+        - certificate_url: https://www.rcr.ac.uk/career-development/awards-honours/awards-for-research/the-constance-thornton-fellowship/
           date_end: ''
           date_start: '2017-11-01'
           description: 'For performing diagnostic accuracy meta-analyses '
           icon: rcr
           organization: RCR
           title: 'Constance Thornton Award for Radiology Research'
-          url: https://www.medipexawards.co.uk/previous-entries/medipex-nhs-innovation-awards-2022/#panela1
+          url: https://www.rcr.ac.uk/career-development/awards-honours/awards-for-research/the-constance-thornton-fellowship/
     design:
       columns: '2'
   
