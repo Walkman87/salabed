@@ -231,7 +231,7 @@ sections:
           url: https://pubs.rsna.org/doi/full/10.1148/radiol.229002
         - certificate_url: ''
           date_end: ''          
-          date_start: '2018-06-01'
+          date_start: '2018-09-01'
           description: 'For evaluating economic evaluation of diagnostic MRI examination'
           icon: rcr
           organization: RCR
