@@ -135,6 +135,12 @@ sections:
           company: University of Sheffield
           date_start: 2019-10-01
           date_end: 2022-08-01
+          description: |2-    
+            Data scientist of the ASPIRE cardiac MRI and CT database
+    
+            Helped train, validate and audit deep learning cardiac MRI segmentation
+    
+            Applied machine learning in cardiac MRI to predict diagnosis and prognosis         
 
         - title: NIHR Academic Clinical Fellow in Radiology
           company_logo: uos
@@ -142,12 +148,13 @@ sections:
           company: University of Sheffield
           date_start: 2014-09-01
           date_end: 2019-10-01
+          description: Performing and evaluating diagnostic accuracy studies in radiology
 
         - title: Cochrane Systematic Reviewer
           company_logo: coc          
           company: Cochrane Heart
           date_start: 2010-01-01
-          date_end: null
+          date_end: null   
 
 
     design:
