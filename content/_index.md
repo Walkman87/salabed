@@ -88,9 +88,9 @@ sections:
           date_start: 2014-09-01
           date_end: 2019-10-01
           description: |2-
-            ST4 Acute and general CT, Oncology imaging, Ultrasound guided intervention
+            ST4 Acute and general CT, Oncology imaging, Ultrasound-guided intervention
 
-            ST3 Chest, Uro & Gynacological, Paediatric and Vascular radiology
+            ST3 Chest, Uro & Gyneacological, Paediatric and Vascular radiology
 
             ST2 Neuroradiology, Gastro, MSK, Breast and Nuclear imaging
 
@@ -99,7 +99,7 @@ sections:
         - title: Clinical Foundation Training
           company: Buckinghamshire Healthcare Trust
           company_logo: nhs
-          location: Aylsesbury, High Wycombe & Amersham          
+          location: Aylesbury, High Wycombe & Amersham          
           date_start: 2013-02-01
           date_end: 2014-09-01
           description: Cardiology including coronary care unit, heart failure and valve clinics
@@ -135,6 +135,12 @@ sections:
           company: University of Sheffield
           date_start: 2019-10-01
           date_end: 2022-08-01
+          description: |2-    
+            Data scientist of the ASPIRE cardiac MRI and CT database
+    
+            Helped train, validate and audit deep learning cardiac MRI segmentation
+    
+            Applied machine learning in cardiac MRI to predict diagnosis and prognosis         
 
         - title: NIHR Academic Clinical Fellow in Radiology
           company_logo: uos
@@ -142,17 +148,19 @@ sections:
           company: University of Sheffield
           date_start: 2014-09-01
           date_end: 2019-10-01
+          description: Performing and evaluating diagnostic accuracy studies in radiology
 
         - title: Cochrane Systematic Reviewer
           company_logo: coc          
           company: Cochrane Heart
           date_start: 2010-01-01
-          date_end: null
+          date_end: null   
 
 
     design:
       columns: '2'
   - block: accomplishments
+    id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards'
@@ -228,22 +236,21 @@ sections:
           organization: RSNA
           title: RSNA Trainee Research Prize
           url: https://pubs.rsna.org/doi/full/10.1148/radiol.229002
-        - certificate_url: https://digitalawards.hsj.co.uk/winners-2023#DigitalInnovatoroftheYear
+        - certificate_url: ''
           date_end: ''          
-          date_start: '2018-06-01'
+          date_start: '2018-09-01'
           description: 'For evaluating economic evaluation of diagnostic MRI examination'
           icon: rcr
           organization: RCR
-          title: 'George and Vera Ansell Radiology Research Prize'
-          url: https://digitalawards.hsj.co.uk/winners-2023#DigitalInnovatoroftheYear          
-        - certificate_url: https://www.medipexawards.co.uk/previous-entries/medipex-nhs-innovation-awards-2022/#panela1
+          title: 'George and Vera Ansell Radiology Research Prize'         
+        - certificate_url: https://www.rcr.ac.uk/career-development/awards-honours/awards-for-research/the-constance-thornton-fellowship/
           date_end: ''
           date_start: '2017-11-01'
           description: 'For performing diagnostic accuracy meta-analyses '
           icon: rcr
           organization: RCR
           title: 'Constance Thornton Award for Radiology Research'
-          url: https://www.medipexawards.co.uk/previous-entries/medipex-nhs-innovation-awards-2022/#panela1
+          url: https://www.rcr.ac.uk/career-development/awards-honours/awards-for-research/the-constance-thornton-fellowship/
     design:
       columns: '2'
   

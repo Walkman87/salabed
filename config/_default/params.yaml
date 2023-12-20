@@ -6,8 +6,9 @@
 # Appearance
 
 appearance:
+  mode: light
   theme_day: minimal
-  theme_night: minimal
+  theme_night:
   font: minimal
   font_size: L
   
@@ -26,7 +27,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'google-site-verification=5XhI6I-4zJeenqVGlhRHw39LadI9bLydtn-Sy2C_lN4'
     baidu: ''
 
 # Site header

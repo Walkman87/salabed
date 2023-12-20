@@ -65,7 +65,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:contact@sameralabed.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/smrabd
@@ -82,11 +82,11 @@ social:
     icon_pack: fab
     link: https://uk.linkedin.com/in/sameralabed
   # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # To use: copy your resume to `static/cv/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: cv/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
