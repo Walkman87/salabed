@@ -24,4 +24,4 @@ main:
     weight: 50
   - name: CV
     url: cv/resume.pdf
-    weight: 70
+    weight: 60
