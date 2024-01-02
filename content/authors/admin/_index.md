@@ -57,7 +57,7 @@ interests:
   - Large Language Models
   - Data Science
   - Evidence Based Medicine
-  - Meta-Analyses
+  - Meta-Analysis
 
 
 # Social/Academic Networking
