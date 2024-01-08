@@ -51,11 +51,13 @@ education:
 # Interests to show in About widget
 interests:
   - Medical Imaging
-  - Cardiac MRI and CT
+  - Cardiac Magnetic Resonance
+  - Coronary CT Angiography
   - Artificial Intelligence
   - Large Language Models
   - Data Science
   - Evidence Based Medicine
+  - Meta-Analysis
 
 
 # Social/Academic Networking
