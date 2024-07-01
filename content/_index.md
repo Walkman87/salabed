@@ -141,7 +141,7 @@ sections:
           location: Sheffield             
           company: University of Sheffield
           date_start: 2022-08-01
-          date_end: null
+          date_end: 2024-06-30
           description: Implementing AI applications in clinical practice
 
         - title: Wellcome Trust Research Fellow in Cardiac MRI
