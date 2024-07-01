@@ -26,7 +26,7 @@ bio:  Cardiac radiologist and researcher working on automating image analysis an
 # Education to show in About widget
 education:
   courses:
-      - course: Certificate of Completion of Training in Radiology
+    - course: Certificate of Completion of Training in Radiology
       institution: General Medical Council (GMC)
       year: 2024
     - course: PhD in Artificial Intelligence in Cardiac MRI

@@ -188,7 +188,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       -  date_end: ''
+        - date_end: ''
           date_start: '2025-02-01'
           description: 'Flagship national programme for digital health'
           icon: nhs
