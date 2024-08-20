@@ -56,6 +56,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+
+        - title: Consultant Cardiac Radiologist
+          company: Sheffield Teaching Hospitals
+          company_logo: nhs
+          location: Sheffield
+          date_start: 2024-07-01
+
         - title: Advanced Cardiothoracic Imaging Fellowship
           company: Royal Papworth Hospital
           company_logo: nhs
@@ -121,12 +128,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Senior Clinical Research Fellow
+          company_logo: uos
+          location: Sheffield             
+          company: University of Sheffield
+          date_start: 2024-07-01
+          date_end: null
+          description: Innovating technology to auto-report medical imaging and simplify them for everyone
+
         - title: NIHR Clinical Lecturer in Radiology
           company_logo: uos
           location: Sheffield             
           company: University of Sheffield
           date_start: 2022-08-01
-          date_end: null
+          date_end: 2024-06-30
           description: Implementing AI applications in clinical practice
 
         - title: Wellcome Trust Research Fellow in Cardiac MRI
@@ -173,6 +188,12 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_end: ''
+          date_start: '2025-02-01'
+          description: 'Flagship national programme for digital health'
+          icon: nhs
+          organization: NHS England
+          title: Topol Digital Fellowship 
         - certificate_url: https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#Alabed
           date_end: ''
           date_start: '2023-11-25'
