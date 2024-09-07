@@ -71,7 +71,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:contact@sameralabed.com'
-  - icon: x-twitter
+  - icon: twitter
     icon_pack: fab
     link: https://x.com/smrabd
     label: Follow me on X
