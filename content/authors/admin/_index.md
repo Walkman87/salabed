@@ -83,6 +83,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://uk.linkedin.com/in/sameralabed
+  - icon: orcid
+    icon_pack: brands/orcid
+    link: https://orcid.org/0000-0002-9960-7587
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/cv/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
