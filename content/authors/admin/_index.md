@@ -71,17 +71,14 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:contact@sameralabed.com'
-  - icon: twitter
-    icon_pack: fab
+  - icon: x
+    icon_pack: brands
     link: https://x.com/smrabd
-    label: Follow me on X
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=7G4XAxYAAAAJ&hl=en
   - icon: researchgate
-    icon_pack: academicons
+    icon_pack: academicons/researchgate
     link: https://www.researchgate.net/profile/Samer-Alabed-2
   - icon: linkedin
     icon_pack: fab
