@@ -77,8 +77,8 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=7G4XAxYAAAAJ&hl=en
-  - icon: researchgate
-    icon_pack: academicons/researchgate
+  - icon: academicons/researchgate
+    icon_pack: academicons
     link: https://www.researchgate.net/profile/Samer-Alabed-2
   - icon: linkedin
     icon_pack: fab
