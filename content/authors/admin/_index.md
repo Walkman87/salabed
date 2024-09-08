@@ -77,11 +77,11 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=7G4XAxYAAAAJ&hl=en
-  - icon: academicons/researchgate
-    icon_pack: academicons
+  - icon: researchgate
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Samer-Alabed-2
   - icon: linkedin
-    icon_pack: ai
+    icon_pack: fab
     link: https://uk.linkedin.com/in/sameralabed
   - icon: orcid
     icon_pack: ai
