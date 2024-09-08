@@ -72,7 +72,7 @@ social:
     icon_pack: fas
     link: 'mailto:contact@sameralabed.com'
   - icon: x
-    icon_pack: brands
+    icon_pack: fab
     link: https://x.com/smrabd
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
@@ -81,10 +81,10 @@ social:
     icon_pack: academicons
     link: https://www.researchgate.net/profile/Samer-Alabed-2
   - icon: linkedin
-    icon_pack: fab
+    icon_pack: ai
     link: https://uk.linkedin.com/in/sameralabed
   - icon: orcid
-    icon_pack: brands/orcid
+    icon_pack: ai
     link: https://orcid.org/0000-0002-9960-7587
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/cv/resume.pdf`, enable `ai` icons in `params.yaml`,
