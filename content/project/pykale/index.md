@@ -12,6 +12,6 @@ draft: false
 
 ---
 
-PyKale is an open-source Python library developed in Sheffield for feature extraction on cardiac MRI scans.  I have helped curate the training and testing datasets, label the images and validate the results of the diagnostic and prognostic models.
+[PyKale](https://github.com/pykale/pykale?tab=readme-ov-file#how-to-use) is an open-source Python library developed in Sheffield for feature extraction on cardiac MRI scans.  I have helped curate the training and testing datasets, label the images and validate the results of the diagnostic and prognostic models.
 
 Machine learning feature extraction on cardiac MRI scans has shown good results in diagnosis and prognosis prediction of pulmonary hypertension. 
