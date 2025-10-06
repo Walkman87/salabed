@@ -17,6 +17,6 @@ draft: false
 
 ---
 
-Radiology reports are often difficult to understand for patients and non-specialists. The MIRACLE project stands for Medical Imaging Reports Accessible and Clear for Everyone and aims to improve the accessibility and clarity of radiology reports by using large language models (LLMs). LLMs can make complex text easier to understand by rewriting it in simpler terms and explaining medical jargon. 
+Radiology reports are often difficult for patients and non-specialists to understand. The MIRACLE project, which stands for Medical Imaging Reports Accessible and Clear for Everyone, aims to improve the accessibility and clarity of radiology reports through the use of large language models (LLMs). These models can simplify complex medical text by rewriting reports in plain language and explaining technical terminology in a patient-friendly way.
 
-This pilot study is funded by the South Yorkshire Digital Health Hub and the Topol Digital Fellowship and is the first step towards developing a tool that can help patients better understand their radiology reports. The extended project is currently written up as an NIHR fellowship grant application to help bring this project to real life patient care.
+This pilot study, funded by the ESPRC South Yorkshire Digital Health Hub and the Topol Digital Fellowship, represents the first step towards developing an intelligent tool to help patients better understand their imaging results. The extended project is currently being developed as an NIHR Post-Doctoral Fellowship proposal to translate this research into real-world patient care.

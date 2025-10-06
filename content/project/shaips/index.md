@@ -14,6 +14,8 @@ draft: false
 
 ---
 
-Segmenting all cardiac MRI sequences including localisers, long-axis cines (4-chambers, 3-chambers, 2-chambers, RV-RA), short-axis cines, T1 and T2 maps and late gadolinium enhancement. This is a project performed in collaboration with Professor Rob Van der Geest at Leiden University Medical Center. 
+The SHAIPS project focuses on the automated segmentation of all cardiac MRI sequences, including short- and long-axis cines (four-, three-, and two-chamber, and RV–RA views), T1 and T2 myocardial mapping, phase-contrast flow, late gadolinium enhancement, and localiser images. This work has been conducted in collaboration with Professor Rob van der Geest at the Leiden University Medical Center.
 
-SHAIPS segmentations are now used clinically at Sheffield Teaching Hospitals with more than 7,000 patients having benefited from this technology. This project was awarded the NHS Parliamentary Award - Future of NHS in 2023, Medipex NHS Innovation Award in 2022, finalist for the HSJ Innovation Award in 2022. In addition, the research underlying the validation of the project was awarded the RSNA Cardiac Research Award in 2021.
+SHAIPS-derived segmentations are now implemented in routine clinical workflows at Sheffield Teaching Hospitals, where more than 7,000 patients have benefited from this technology. The project was recognised with the NHS Parliamentary Award – Future of the NHS (2023) and the Medipex NHS Innovation Award (2022), and was a finalist for the HSJ Innovation Award (2022). The underlying research validating the technology earned me the RSNA Cardiac Research Prize (2021).
+
+I led dataset curation, manual segmentation, data labelling, and model validation, benchmarking outputs against invasive haemodynamic measurements and expert manual segmentations.

@@ -17,5 +17,6 @@ draft: false
 
 ---
 
-HeartTalk is a project that aims to automate report generation for cardiac MRI scans using natural language processing and rule based reporting. The output is based on the results of the segmentation of the cardiac MRI scans ([SHAIPS](https://yourdomain.com/shaips)) to generate a draft report that can be reviewed and edited by the reporting radiologist. 
-I have been working on this project since 2023 and it is currently in beta testing phase for clinical use at Sheffield Teaching Hospitals. 
+HeartTalk is a project designed to automate report generation for cardiac MRI using natural language processing (NLP) and rule-based reporting. The system generates structured draft reports from the results of cardiac MRI segmentation produced by [SHAIPS](/project/shaips), which can then be reviewed and edited by the reporting radiologist.
+
+I have been developing this project since 2023, and it is currently in beta testing for clinical deployment at Sheffield Teaching Hospitals.

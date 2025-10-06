@@ -17,6 +17,7 @@ draft: false
 
 ---
 
-This project  aims to improve the efficiency of cardiac MRI (CMR) reporting workflow by combining the output of several AI processes in one pipeline. This includes AI image post-processing (Sonic DL), segmentation of all CMR series ([SHAIPS](/project/shaips)),  draft report creation based on automated measurements ([HeartTalk](/project/hearttalk)) and generating patient friendly summaries of the verified report ([MIRACLE](/project/miracle)).
+This project aims to improve the efficiency of cardiac MRI (CMR) reporting workflows by integrating the output of multiple AI-driven processes into a unified pipeline. The system combines AI-based image post-processing (Sonic DL), automated segmentation of all CMR series ([SHAIPS](/project/shaips)), draft report generation from quantitative measurements ([HeartTalk](/project/hearttalk)), and patient-friendly report summarisation ([MIRACLE](/project/miracle)).
 
-The pipeline aims to half the time radiologists spend on analysing and reporting CMR scans from an average of 120 minutes to 60 minutes. This pipeline is in development and currently Sonic DL, SHAIPS and HeartTalk are integrated into the pipeline with MIRACLE being integrated in the future.
+The goal of this integrated pipeline is to halve CMR acquisition, analysis and reporting time from approximately 120 minutes to 60 minutes per scan while improving consistency and interpretability. The pipeline is currently under active development.
+

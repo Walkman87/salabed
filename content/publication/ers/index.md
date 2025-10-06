@@ -21,12 +21,11 @@ featured: true
 
 # links:
 # - name: ""
-url_pdf: https://erj.ersjournals.com/content/62/2/2202225
+url_pdf: https://publications.ersnet.org/content/erj/62/2/2202225.full.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  path: "publication/journal-article/jacci.jpg"
   caption: 'Image credit: [**ERS**](https://erj.ersjournals.com/content/erj/62/2/2202225/F1.large.jpg?width=800&height=600&carousel=1)'
   focal_point: ""
   preview_only: false

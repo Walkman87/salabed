@@ -21,7 +21,7 @@ featured: true
 
 # links:
 # - name: ""
-url_pdf: https://erj.ersjournals.com/content/62/2/2202225
+url_pdf: https://pubs.rsna.org/doi/epdf/10.1148/radiol.212929
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
