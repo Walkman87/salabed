@@ -26,10 +26,10 @@ bio:  Cardiac radiologist and researcher working on automating image analysis an
 # Education to show in About widget
 education:
   courses:
-    - course: Certificate of Completion of Training in Radiology
+    - course: Completion of Training in Radiology
       institution: General Medical Council (GMC)
       year: 2024
-    - course: PhD in Artificial Intelligence in Cardiac MRI
+    - course: PhD in AI in Cardiac MRI
       institution: University of Sheffield
       year: 2023
     - course: Fellow of the Higher Education Academy
@@ -38,10 +38,10 @@ education:
     - course: PgCert in Medical Education 
       institution: University of Dundee
       year: 2020
-    - course: MSc in Clinical Research Methods (Distinction)
+    - course: MSc in Clinical Research Methods
       institution: University of Sheffield
       year: 2019
-    - course: Fellow of the Royal College of Radiologists 
+    - course: Fellow of Royal College of Radiologists 
       institution: Royal College of Radiologists
       year: 2018
     - course: MSc in Evidence Based Health-Care
@@ -53,14 +53,14 @@ education:
 
 # Interests to show in About widget
 interests:
-  - Medical Imaging
-  - Cardiac Magnetic Resonance
-  - Coronary CT Angiography
   - Artificial Intelligence
   - Large Language Models
   - Data Science
   - Evidence Based Medicine
   - Meta-Analysis
+  - Cardiac Magnetic Resonance
+  - Coronary CT Angiography
+  - Cardiopulmonary disease
 
 
 # Social/Academic Networking
@@ -97,7 +97,7 @@ social:
 highlight_name: true
 ---
 
-Dr Samer Alabed is a Consultant Cardiac Radiologist and Senior Clinical Research Fellow at the University of Sheffield. He develops and evaluates machine learning applications in cardiac imaging including automated diagnosis, anatomical segmentation and prognostic assessment. His current research combines deep learning image analysis and report generation to  automate cardiac MRI assessment. His research garnered publication in prestigious radiology, cardiology and respiratory medicine journals. It has also gained recognition in European guidelines and international and national awards. 
+I am a Consultant Cardiac Radiologist and Senior Clinical Research Fellow at the University of Sheffield. I develop and evaluate machine learning applications in cardiac imaging for automated diagnosis, anatomical segmentation and prognostic assessment. My current research combines deep learning image analysis and report generation to  automate cardiac MRI assessment. My research garnered publication in prestigious radiology, cardiology and respiratory medicine journals. It has also gained recognition in European guidelines and international and national awards. 
 
-Dr Alabed has co-chaired the Trainee Committees of both the British Society of Cardiovascular Imaging (BSCI) and British Society of Cardiovascular Magnetic Resonance (BSCMR) and dedicated his tenure to advance cardiac imaging teaching by co-organising the BSCI 2024 Annual Conference and the BSCMR 2023 Webinar series. 
+I am an elected member of the executive committee of the British Society of Cardiovascular Imaging (BSCI), member of the academic committee of the Royal College of Radiologists and deputy editor for Radiology: Cardiothoracic Imaging. I have previously co-chaired the Trainee Committees of both the BSCI and the British Society of Cardiovascular Magnetic Resonance (BSCMR) and dedicated my tenure to advance cardiac imaging teaching by organising the BSCI 2024 Annual Conference and the BSCMR 2023 Webinar series. 
 {style="text-align: justify;"}

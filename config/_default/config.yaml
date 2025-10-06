@@ -1,0 +1,28 @@
+security:
+  funcs:
+    getenv:
+      - '^HUGO_'
+      - '^WC_'     # allow all WC_* vars, including WC_POST_CSS
+      - '^CI$'
+
+services:
+  googleAnalytics:
+    id: ""
+
+params:
+  analytics:
+    enabled: false
+
+googleAnalytics: ""
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+
+# Optional: hide the warning message itself
+ignoreLogs:
+  - warning-goldmark-raw-html
+

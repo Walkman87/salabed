@@ -16,7 +16,7 @@ publication: "*Radiology*"
 publication_short: ""
 
 tags:
-- Source Themes
+- Publications
 featured: true
 
 # links:
@@ -34,6 +34,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ["shaips"]
 
 ---
