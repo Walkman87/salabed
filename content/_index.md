@@ -31,6 +31,11 @@ sections:
           company_logo: nhs
           location: Sheffield
           date_start: 2024-07-01
+          description: |2-
+          
+            Cardiac MRI level 3 accreditation - SCMR
+            Cardiac CT level 3 accreditation - BSCI
+          
 
         - title: Advanced Cardiothoracic Imaging Fellowship
           company: Royal Papworth Hospital
@@ -41,7 +46,6 @@ sections:
           description: |2-
             
             Clinical Supervisor: Dr Bobby Agrawal
-
             Academic Supervisor: Dr Jonathan Weir-McCall
 
         - title: Cardiothoracic Radiology Training
@@ -50,13 +54,7 @@ sections:
           location: Sheffield
           date_start: 2019-10-01
           date_end: 2023-06-01
-          description: |2-
-            Cardiac MRI level 3 accreditation - SCMR
-
-            Cardiac CT level 2 accreditation - BSCI
-            
-            3 months Cardiac CT external experience - Leeds University Hospitals
-
+          
         - title: Core Radiology Training
           company: Sheffield Teaching Hospitals
           company_logo: nhs
@@ -64,12 +62,10 @@ sections:
           date_start: 2014-09-01
           date_end: 2019-10-01
           description: |2-
+          
             ST4 Acute and general CT, Oncology imaging, Ultrasound-guided intervention
-
             ST3 Chest, Uro & Gyneacological, Paediatric and Vascular radiology
-
             ST2 Neuroradiology, Gastro, MSK, Breast and Nuclear imaging
-
             ST1 Plain radiography, Ultrasound, CT, Fluoroscopy
 
         - title: Clinical Foundation Training
@@ -96,7 +92,7 @@ sections:
           company: University of Sheffield
           date_start: 2024-07-01
           date_end: null
-          description: Innovating technology to auto-report medical imaging and simplify them for everyone
+          description: Innovating technology to auto-report medical imaging and simplify them
 
         - title: NIHR Clinical Lecturer in Radiology
           company_logo: uos
