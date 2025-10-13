@@ -33,7 +33,7 @@ sections:
           date_start: 2024-07-01
           description: |2-
           
-            Cardiac MRI level 3 accreditation - SCMR
+            Cardiac MRI level 3 accreditation - SCMR\
             Cardiac CT level 3 accreditation - BSCI
           
 
@@ -45,7 +45,7 @@ sections:
           date_end: 2023-12-01
           description: |2-
             
-            Clinical Supervisor: Dr Bobby Agrawal
+            Clinical Supervisor: Dr Bobby Agrawal\
             Academic Supervisor: Dr Jonathan Weir-McCall
 
         - title: Cardiothoracic Radiology Training
@@ -63,9 +63,9 @@ sections:
           date_end: 2019-10-01
           description: |2-
           
-            ST4 Acute and general CT, Oncology imaging, Ultrasound-guided intervention
-            ST3 Chest, Uro & Gyneacological, Paediatric and Vascular radiology
-            ST2 Neuroradiology, Gastro, MSK, Breast and Nuclear imaging
+            ST4 Acute and general CT, Oncology imaging, Ultrasound-guided intervention\
+            ST3 Chest, Uro & Gyneacological, Paediatric and Vascular radiology\
+            ST2 Neuroradiology, Gastro, MSK, Breast and Nuclear imaging\
             ST1 Plain radiography, Ultrasound, CT, Fluoroscopy
 
         - title: Clinical Foundation Training
@@ -78,7 +78,6 @@ sections:
 
     design:
       columns: '2'
-      view: compact
 
       
   - block: experience
