@@ -258,6 +258,10 @@ sections:
     id: featured
     content:
       title: Featured Publications
+      text: |-
+        {{% callout note %}}
+        For the full publications list please see [Google Scholar](https://scholar.google.com/citations?user=7G4XAxYAAAAJ&hl=en).
+        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -265,21 +269,7 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    content:
-      title: Full Publications List
-      text: |-
-        {{% callout note %}}
-        For the full publications list see [Google Scholar](https://scholar.google.com/citations?user=7G4XAxYAAAAJ&hl=en).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-      
+           
   - block: markdown
     id: gallery
     content:
